@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name         Bing Auto-Query
-// @namespace    https://www.github.com/*
+// @namespace    https://github.com/xtusw/Auto-Query/
+// @license      MIT
 // @version      1.0
 // @icon         https://upload.wikimedia.org/wikipedia/commons/7/7e/Microsoft_Edge_logo_%282019%29.png
 // @description  Automatically searches random ASCII strings on Bing and obfuscated so you can not tamper
