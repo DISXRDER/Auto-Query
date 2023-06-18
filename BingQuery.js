@@ -6,7 +6,6 @@
 // @icon         https://upload.wikimedia.org/wikipedia/commons/7/7e/Microsoft_Edge_logo_%282019%29.png
 // @description  Automatically searches random ASCII strings on Bing and obfuscated so you can not tamper
 // @author       VULTURE
-// @run-at       document-start
 // @match        https://www.bing.com/*
 // @grant        none
 // ==/UserScript==
